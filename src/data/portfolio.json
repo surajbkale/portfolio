@@ -1,0 +1,110 @@
+{
+  "profile": {
+    "name": "Aaabad Ahmed",
+    "role": "Software Engineer",
+    "bio": "A Software Engineer who has developed countless innovative solutions.",
+    "social": {
+      "dribbble": "https://dribbble.com",
+      "twitter": "https://twitter.com",
+      "instagram": "https://instagram.com",
+      "youtube": "https://youtube.com"
+    }
+  },
+  "experience": [
+    {
+      "id": "1",
+      "company": "PixelForge Studios",
+      "role": "Led the design team in creating user-centric mobile and web applications, improving the user experience and increasing user engagement.",
+      "duration": "Jan 2020 - Present"
+    },
+    {
+      "id": "2",
+      "company": "BlueWave Innovators",
+      "role": "Developed and implemented design strategies for new product lines, collaborated closely with engineers and product managers.",
+      "duration": "Jun 2017 - Dec 2019"
+    },
+    {
+      "id": "3",
+      "company": "TrendCraft Solutions",
+      "role": "Designed user interfaces for e-commerce platforms, focusing on enhancing usability and visual appeal.",
+      "duration": "Feb 2015 - May 2017"
+    }
+  ],
+  "tools": [
+    {
+      "id": "1",
+      "name": "Framer",
+      "category": "Website Builder",
+      "icon": "Framer"
+    },
+    {
+      "id": "2",
+      "name": "Figma",
+      "category": "Design Tool",
+      "icon": "Figma"
+    },
+    {
+      "id": "3",
+      "name": "Lemon Squeezy",
+      "category": "Payments Provider",
+      "icon": "LemonSqueezy"
+    },
+    {
+      "id": "4",
+      "name": "ChatGPT",
+      "category": "AI Assistant",
+      "icon": "Bot"
+    },
+    {
+      "id": "5",
+      "name": "Notion",
+      "category": "Productivity Tool",
+      "icon": "BookType"
+    },
+    {
+      "id": "6",
+      "name": "Nextjs",
+      "category": "React framework",
+      "icon": "TerminalSquare"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "NajmAI",
+      "category": "SaaS Framer Template",
+      "image": "/images/project1.png",
+      "link": "#"
+    },
+    {
+      "id": "2",
+      "title": "Damas",
+      "category": "Free Framer Template",
+      "image": "/images/project2.png",
+      "link": "#"
+    },
+    {
+      "id": "3",
+      "title": "Faseelh",
+      "category": "Free Framer Template",
+      "image": "/images/project3.png",
+      "link": "#"
+    }
+  ],
+  "thoughts": [
+    {
+      "id": "1",
+      "title": "Starting and Growing a Career in Web Design",
+      "summary": "As the Internet continues to develop and grow exponentially, jobs related to the industry do too, particularly those that relate to web design and development.",
+      "date": "Apr 8, 2022",
+      "readTime": "6min read"
+    },
+    {
+      "id": "2",
+      "title": "Create a Landing Page That Performs Great",
+      "summary": "Whether you work in marketing, sales, or product design, you understand the importance of a quality landing page. Landing pages are standalone websites used to generate leads or sales—in other words they help you increase your revenue.",
+      "date": "Mar 15, 2022",
+      "readTime": "6min read"
+    }
+  ]
+}
