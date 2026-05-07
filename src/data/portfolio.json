@@ -33,15 +33,15 @@
     },
     {
       "id": "3",
-      "name": "Node.js and Express.js",
-      "category": "Backend Framework",
-      "image": "/images/tools/nodejs-logo.png"
-    },
-    {
-      "id": "4",
       "name": "Next.js",
       "category": "Frontend Framework",
       "image": "/images/tools/nextjs-logo.png"
+    },
+    {
+      "id": "4",
+      "name": "Node.js and Express.js",
+      "category": "Backend Framework",
+      "image": "/images/tools/nodejs-logo.png"
     },
     {
       "id": "5",
@@ -95,10 +95,10 @@
   "projects": [
     {
       "id": "1",
-      "title": "NajmAI",
-      "category": "SaaS Framer Template",
-      "image": "/images/project1.png",
-      "link": "#"
+      "title": "ChessVerse",
+      "category": "Online Real-time Multiplayer Chess Website",
+      "image": "/images/projects/chess.webp",
+      "link": "https://chessverse-frontend.vercel.app/"
     },
     {
       "id": "2",

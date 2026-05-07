@@ -9,8 +9,8 @@ export function Navigation() {
 
   const navItems = [
     { icon: Home, href: "/" },
-    { icon: Folder, href: "#projects" },
     { icon: Briefcase, href: "#experience" },
+    { icon: Folder, href: "#projects" },
     { icon: Wrench, href: "#tools" },
     { icon: Mail, href: "#contact" },
   ];
