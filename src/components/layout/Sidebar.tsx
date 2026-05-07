@@ -7,7 +7,7 @@ export function Sidebar() {
   const { profile } = portfolioData;
 
   return (
-    <div className="w-full lg:w-[380px] lg:fixed lg:top-8 lg:left-8 h-auto lg:h-[calc(100vh-4rem)] bg-white dark:bg-white text-black rounded-[32px] p-8 flex flex-col items-center shadow-xl">
+    <div className="w-full lg:w-[380px] lg:sticky lg:top-8 h-auto lg:h-[calc(100vh-4rem)] bg-white dark:bg-white text-black rounded-[32px] p-8 flex flex-col items-center shadow-xl">
       <div className="relative w-full max-w-[280px] aspect-[4/5] rounded-[24px] overflow-hidden mb-6 bg-gradient-to-br from-orange-500 to-orange-700">
         {/* Decorative dashed circles placeholder */}
         <div className="absolute top-[-20%] left-[-20%] w-[60%] h-[60%] rounded-full border-2 border-dashed border-white/30" />

@@ -16,7 +16,7 @@ export function Navigation() {
   ];
 
   return (
-    <div className="fixed top-8 left-1/2 -translate-x-1/2 lg:left-auto lg:right-32 lg:translate-x-0 z-50">
+    <div className="fixed top-8 left-1/2 -translate-x-1/2 z-50">
       <div className="flex items-center gap-2 px-4 py-3 rounded-full bg-[#1c1c1c] border border-white/5 shadow-2xl backdrop-blur-md">
         {navItems.map((item, index) => {
           const Icon = item.icon;
