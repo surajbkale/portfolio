@@ -1,6 +1,6 @@
 "use client";
 
-import { Home, Folder, Briefcase, Wrench } from "lucide-react";
+import { Home, Folder, Briefcase, Wrench, Mail } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
@@ -12,6 +12,7 @@ export function Navigation() {
     { icon: Folder, href: "#projects" },
     { icon: Briefcase, href: "#experience" },
     { icon: Wrench, href: "#tools" },
+    { icon: Mail, href: "#contact" },
   ];
 
   return (
