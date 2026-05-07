@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Suraj Kale",
-    "imageUrl": "",
+    "imageUrl": "/images/profile/profile_pic.png",
     "role": "Software Engineer",
     "bio": "Full-stack developer focused on creating real-world solutions with modern technologies",
     "social": {
@@ -14,46 +14,82 @@
     {
       "id": "1",
       "company": "NDSoftTech Solutions",
-      "role": "Software Engineer",
+      "role": "Software Development Engineer Intern",
       "duration": "March 2026 - Present"
     }
   ],
   "tools": [
     {
       "id": "1",
-      "name": "Framer",
-      "category": "Website Builder",
-      "image": "/images/tools/framer.png"
+      "name": "TypeScript",
+      "category": "Programming Language",
+      "image": "/images/tools/Typescript-logo.png"
     },
     {
       "id": "2",
-      "name": "Figma",
-      "category": "Design Tool",
-      "image": "/images/tools/figma.png"
+      "name": "React",
+      "category": "Frontend Framework",
+      "image": "/images/tools/react-logo.png"
     },
     {
       "id": "3",
-      "name": "Lemon Squeezy",
-      "category": "Payments Provider",
-      "image": "/images/tools/lemon-squeezy.png"
+      "name": "Node.js and Express.js",
+      "category": "Backend Framework",
+      "image": "/images/tools/nodejs-logo.png"
     },
     {
       "id": "4",
-      "name": "ChatGPT",
-      "category": "AI Assistant",
-      "image": "/images/tools/chatgpt.png"
+      "name": "Next.js",
+      "category": "Frontend Framework",
+      "image": "/images/tools/nextjs-logo.png"
     },
     {
       "id": "5",
-      "name": "Notion",
-      "category": "Productivity Tool",
-      "image": "/images/tools/notion.png"
+      "name": "WebSockets",
+      "category": "Library",
+      "image": "/images/tools/websocket-logo.png"
     },
     {
       "id": "6",
-      "name": "Nextjs",
-      "category": "React framework",
-      "image": "/images/tools/nextjs.png"
+      "name": "Tailwind CSS",
+      "category": "Library",
+      "image": "/images/tools/tailwind-logo.png"
+    },
+    {
+      "id": "7",
+      "name": "PostgreSQL",
+      "category": "Database",
+      "image": "/images/tools/postgresql-logo.png"
+    },
+    {
+      "id": "8",
+      "name": "MongoDB",
+      "category": "Database",
+      "image": "/images/tools/mongodb-logo.png"
+    },
+    {
+      "id": "9",
+      "name": "Git and GitHub",
+      "category": "Tools",
+      "image": "/images/tools/git-logo.png"
+    },
+    {
+      "id": "10",
+      "name": "Linux",
+      "category": "Os",
+      "image": "/images/tools/linux-logo.png"
+    },
+    {
+      "id": "11",
+      "name": "Docker",
+      "category": "Tools",
+      "image": "/images/tools/docker-logo.png"
+    },
+    {
+      "id": "12",
+      "name": "AWS",
+      "category": "Cloud",
+      "image": "/images/tools/aws-logo.png"
     }
   ],
   "projects": [

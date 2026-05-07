@@ -7,7 +7,7 @@ export function ExperienceSection() {
   return (
     <section className="py-20 lg:pt-32">
       <h2 className="text-6xl md:text-8xl font-bold mb-16 uppercase tracking-tighter leading-none">
-        <span className="text-white block">12 Years Of</span>
+        <span className="text-white block">Work</span>
         <span className="text-[#333333] block">Experience</span>
       </h2>
 
@@ -20,11 +20,11 @@ export function ExperienceSection() {
               </h3>
               <ArrowUpRight className="text-orange-500 opacity-0 group-hover:opacity-100 transition-opacity transform translate-y-2 group-hover:translate-y-0" />
             </div>
-            
+
             <p className="text-gray-400 text-lg leading-relaxed max-w-2xl mb-6">
               {item.role}
             </p>
-            
+
             <span className="text-sm text-gray-500 tracking-wider">
               {item.duration}
             </span>
