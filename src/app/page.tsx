@@ -3,7 +3,6 @@ import { Navigation } from "@/components/layout/Navigation";
 import { ExperienceSection } from "@/components/sections/ExperienceSection";
 import { ToolsSection } from "@/components/sections/ToolsSection";
 import { ProjectsSection } from "@/components/sections/ProjectsSection";
-import { ThoughtsSection } from "@/components/sections/ThoughtsSection";
 import { ContactSection } from "@/components/sections/ContactSection";
 
 export default function Home() {
@@ -32,10 +31,6 @@ export default function Home() {
 
               <div id="tools">
                 <ToolsSection />
-              </div>
-
-              <div id="blog">
-                <ThoughtsSection />
               </div>
 
               <div id="contact">

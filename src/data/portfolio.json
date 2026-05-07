@@ -1,33 +1,21 @@
 {
   "profile": {
-    "name": "Aaabad Ahmed",
+    "name": "Suraj Kale",
+    "imageUrl": "https://github.com/surajbkale.png",
     "role": "Software Engineer",
-    "bio": "A Software Engineer who has developed countless innovative solutions.",
+    "bio": "Full-stack developer focused on creating real-world solutions with modern technologies",
     "social": {
-      "dribbble": "https://dribbble.com",
-      "twitter": "https://twitter.com",
-      "instagram": "https://instagram.com",
-      "youtube": "https://youtube.com"
+      "linkedin": "https://www.linkedin.com/in/suraj-kale-4478ab255",
+      "github": "https://github.com/surajbkale",
+      "twitter": "https://x.com/surajjj01"
     }
   },
   "experience": [
     {
       "id": "1",
-      "company": "PixelForge Studios",
-      "role": "Led the design team in creating user-centric mobile and web applications, improving the user experience and increasing user engagement.",
-      "duration": "Jan 2020 - Present"
-    },
-    {
-      "id": "2",
-      "company": "BlueWave Innovators",
-      "role": "Developed and implemented design strategies for new product lines, collaborated closely with engineers and product managers.",
-      "duration": "Jun 2017 - Dec 2019"
-    },
-    {
-      "id": "3",
-      "company": "TrendCraft Solutions",
-      "role": "Designed user interfaces for e-commerce platforms, focusing on enhancing usability and visual appeal.",
-      "duration": "Feb 2015 - May 2017"
+      "company": "NDSoftTech Solutions",
+      "role": "Software Engineer",
+      "duration": "March 2026 - Present"
     }
   ],
   "tools": [
@@ -35,37 +23,37 @@
       "id": "1",
       "name": "Framer",
       "category": "Website Builder",
-      "icon": "Framer"
+      "image": "/images/tools/framer.png"
     },
     {
       "id": "2",
       "name": "Figma",
       "category": "Design Tool",
-      "icon": "Figma"
+      "image": "/images/tools/figma.png"
     },
     {
       "id": "3",
       "name": "Lemon Squeezy",
       "category": "Payments Provider",
-      "icon": "LemonSqueezy"
+      "image": "/images/tools/lemon-squeezy.png"
     },
     {
       "id": "4",
       "name": "ChatGPT",
       "category": "AI Assistant",
-      "icon": "Bot"
+      "image": "/images/tools/chatgpt.png"
     },
     {
       "id": "5",
       "name": "Notion",
       "category": "Productivity Tool",
-      "icon": "BookType"
+      "image": "/images/tools/notion.png"
     },
     {
       "id": "6",
       "name": "Nextjs",
       "category": "React framework",
-      "icon": "TerminalSquare"
+      "image": "/images/tools/nextjs.png"
     }
   ],
   "projects": [
