@@ -1,0 +1,134 @@
+{
+  "profile": {
+    "name": "Suraj Kale",
+    "imageUrl": "/images/profile/profile_pic.png",
+    "role": "Software Engineer",
+    "bio": "Full-stack developer focused on creating real-world solutions with modern technologies",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/suraj-kale-4478ab255",
+      "github": "https://github.com/surajbkale",
+      "twitter": "https://x.com/surajjj01"
+    }
+  },
+  "experience": [
+    {
+      "id": "1",
+      "company": "NDSoftTech Solutions",
+      "role": "Software Development Engineer Intern",
+      "duration": "March 2026 - Present"
+    }
+  ],
+  "tools": [
+    {
+      "id": "1",
+      "name": "TypeScript",
+      "category": "Programming Language",
+      "image": "/images/tools/Typescript-logo.png"
+    },
+    {
+      "id": "2",
+      "name": "React",
+      "category": "Frontend Framework",
+      "image": "/images/tools/react-logo.png"
+    },
+    {
+      "id": "3",
+      "name": "Next.js",
+      "category": "Frontend Framework",
+      "image": "/images/tools/nextjs-logo.png"
+    },
+    {
+      "id": "4",
+      "name": "Node.js and Express.js",
+      "category": "Backend Framework",
+      "image": "/images/tools/nodejs-logo.png"
+    },
+    {
+      "id": "5",
+      "name": "WebSockets",
+      "category": "Library",
+      "image": "/images/tools/websocket-logo.png"
+    },
+    {
+      "id": "6",
+      "name": "Tailwind CSS",
+      "category": "Library",
+      "image": "/images/tools/tailwind-logo.png"
+    },
+    {
+      "id": "7",
+      "name": "PostgreSQL",
+      "category": "Database",
+      "image": "/images/tools/postgresql-logo.png"
+    },
+    {
+      "id": "8",
+      "name": "MongoDB",
+      "category": "Database",
+      "image": "/images/tools/mongodb-logo.png"
+    },
+    {
+      "id": "9",
+      "name": "Git and GitHub",
+      "category": "Tools",
+      "image": "/images/tools/git-logo.png"
+    },
+    {
+      "id": "10",
+      "name": "Linux",
+      "category": "Os",
+      "image": "/images/tools/linux-logo.png"
+    },
+    {
+      "id": "11",
+      "name": "Docker",
+      "category": "Tools",
+      "image": "/images/tools/docker-logo.png"
+    },
+    {
+      "id": "12",
+      "name": "AWS",
+      "category": "Cloud",
+      "image": "/images/tools/aws-logo.png"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "ChessVerse",
+      "category": "Online Real-time Multiplayer Chess Website",
+      "image": "/images/projects/chess.webp",
+      "link": "https://chessverse-frontend.vercel.app/"
+    },
+    {
+      "id": "2",
+      "title": "Damas",
+      "category": "Free Framer Template",
+      "image": "/images/project2.png",
+      "link": "#"
+    },
+    {
+      "id": "3",
+      "title": "Faseelh",
+      "category": "Free Framer Template",
+      "image": "/images/project3.png",
+      "link": "#"
+    }
+  ],
+  "thoughts": [
+    {
+      "id": "1",
+      "title": "Starting and Growing a Career in Web Design",
+      "summary": "As the Internet continues to develop and grow exponentially, jobs related to the industry do too, particularly those that relate to web design and development.",
+      "date": "Apr 8, 2022",
+      "readTime": "6min read"
+    },
+    {
+      "id": "2",
+      "title": "Create a Landing Page That Performs Great",
+      "summary": "Whether you work in marketing, sales, or product design, you understand the importance of a quality landing page. Landing pages are standalone websites used to generate leads or sales—in other words they help you increase your revenue.",
+      "date": "Mar 15, 2022",
+      "readTime": "6min read"
+    }
+  ]
+}
